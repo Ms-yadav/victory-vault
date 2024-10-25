@@ -83,4 +83,4 @@ Here I am attaching the final working website's screenshot for the reference.
 ![contact page](https://github.com/kbjtushar/victory-vault/assets/161484157/3ae8ede2-15e0-43d2-a1de-8235b50dcf6a)
 
 # Final Project Statement:
-Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community.
+Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community
